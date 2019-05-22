@@ -1,33 +1,45 @@
 [submodule "assignforce-client"]
 	path = assignforce-client
 	url = https://github.com/revaturelabs/assignforce-client
+	branch = development
 [submodule "assignforce-trainer-service"]
 	path = assignforce-trainer-service
 	url = https://github.com/revaturelabs/assignforce-trainer-service
+	branch = development
 [submodule "assignforce-batch-service"]
 	path = assignforce-batch-service
 	url = https://github.com/revaturelabs/assignforce-batch-service
+	branch = development
 [submodule "assignforce-skill-service"]
 	path = assignforce-skill-service
 	url = https://github.com/revaturelabs/assignforce-skill-service
+	branch = development
 [submodule "assignforce-gateway-service"]
 	path = assignforce-gateway-service
 	url = https://github.com/revaturelabs/assignforce-gateway-service
+	branch = development
 [submodule "assignforce-filehandler-service"]
 	path = assignforce-filehandler-service
 	url = https://github.com/revaturelabs/assignforce-filehandler-service
+	branch = development
 [submodule "assignforce-location-service"]
 	path = assignforce-location-service
 	url = https://github.com/revaturelabs/assignforce-location-service
 [submodule "assignforce-config-server"]
 	path = assignforce-config-server
 	url = https://github.com/revaturelabs/assignforce-config-server
+	branch = development
 [submodule "assignforce-curriculum-service"]
 	path = assignforce-curriculum-service
 	url = https://github.com/revaturelabs/assignforce-curriculum-service
+	branch = development
 [submodule "assignforce-settings-service"]
 	path = assignforce-settings-service
 	url = https://github.com/revaturelabs/assignforce-settings-service
+	branch = development
 [submodule "assignforce-resource-service"]
 	path = assignforce-resource-service
 	url = https://github.com/revaturelabs/assignforce-resource-service
+	branch = development
+[submodule "assignforce-trainer"]
+	branch = development
